@@ -1,7 +1,7 @@
 # Platos Pizza Sales Analysis
 
 ## Introduction 
-This is challenge arranged by Maven Analytics. To see all the detail please click [here](https://mavenanalytics.io/challenges/maven-pizza-challenge/4)
+This challenge was arranged by Maven Analytics. To see all the details please click [here](https://mavenanalytics.io/challenges/maven-pizza-challenge/4)
 
 
 
